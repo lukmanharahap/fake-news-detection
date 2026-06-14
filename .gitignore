@@ -1,0 +1,7 @@
+dataset/*.xlsx
+dataset/*.xls
+!dataset/sample_dataset.xlsx
+!dataset/download_link.txt
+__pycache__/
+.pytest_cache/
+.venv/
