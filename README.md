@@ -19,6 +19,8 @@ fake-news-detection/
 ├── dataset/
 │   ├── sample_dataset.xlsx
 │   └── download_link.txt
+├── demo/
+│   └── app_demo.gif
 ├── models/
 │   ├── baseline.pkl
 │   ├── HoaXGY_model.keras
@@ -129,3 +131,8 @@ In this group project, I handled the Machine Learning part:
 - Baseline and deep learning experiments
 - Model export to mobile-friendly format (TFLite)
 - Documentation of the ML pipeline and handoff notes
+
+## App Demo
+
+Here's a quick demonstration of the Android app consuming the model for fake news detection:
+![App Demo](demo/app_demo.gif)
