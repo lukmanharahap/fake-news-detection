@@ -135,4 +135,5 @@ In this group project, I handled the Machine Learning part:
 ## App Demo
 
 Here's a quick demonstration of the Android app consuming the model for fake news detection:
-<img src="demo/app_demo.gif" alt="App Demo" width="220">
+
+<img src="demo/app_demo.gif" alt="App Demo" width="400">
